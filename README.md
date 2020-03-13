@@ -4,7 +4,7 @@ MDL-SPFP networks implementation using Keras-1.0 functional API.
 # MDL-SPFP in Keras
 Implementation of Fine-grained Service-level Passenger Flow Prediction for Bus Transit Systems Based on Multitask Deep Learning
 
-
+![model]https://github.com/DanLuo-work/keras-MDL-SPFP/blob/master/model.png
 
 # Requirements
 Keras 2.2
