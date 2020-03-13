@@ -6,10 +6,12 @@ Implementation of Fine-grained Service-level Passenger Flow Prediction for Bus T
 
 # Requirements
 Keras 2.2
+
 Tensorflow 1.14
 
 Install Tensorflow 1.14 and Keras 2.2.
+
 If you want to speed up training phase, you can install CUDA and CUDNN.
 
 # Data
-The data is recorded from a Bus Transit System in JiNan. Due to the privacy policy, we do not provide the raw data. Maybe you can apply a similar type of data in https://outreach.didichuxing.com/appEn-vue/Personal.
+The data is recorded from a Bus Transit System in JiNan. Due to the privacy policy, we do not provide the raw data. However, in order to make other users use and justify our work, the source code and input flows (which cannot be traced back to individuals) had been uploaded.
